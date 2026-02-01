@@ -1,6 +1,6 @@
 # Creative-Programming-One-Assignment
 This assignment was created in the first year and first semester of the Creative Computing course at South East Technological University.
-# Assignment 04 — Christmas Street Scene (p5.js)
+# Assignment — Christmas Street Scene (p5.js)
 
 **Author:** Annetta Hawkins  
 **Date:** 30/11/2024
